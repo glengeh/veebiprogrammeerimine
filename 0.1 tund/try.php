@@ -34,5 +34,6 @@
   <?php
   echo "<p>lehe avamise hetkel oli" .$partOfDay ."."</p>;
   ?>
+  <hr>
 </body>
 </html>
